@@ -1,0 +1,1 @@
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp.UWP\FlashLightApp.UWP.csproj;x86

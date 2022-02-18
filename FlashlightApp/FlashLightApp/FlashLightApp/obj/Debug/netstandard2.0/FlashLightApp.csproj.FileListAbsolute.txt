@@ -1,0 +1,15 @@
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\bin\Debug\netstandard2.0\FlashLightApp.deps.json
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\bin\Debug\netstandard2.0\FlashLightApp.dll
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\bin\Debug\netstandard2.0\ref\FlashLightApp.dll
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\bin\Debug\netstandard2.0\FlashLightApp.pdb
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\FlashLightApp.csproj.AssemblyReference.cache
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\FlashLightApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\FlashLightApp.AssemblyInfoInputs.cache
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\FlashLightApp.AssemblyInfo.cs
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\FlashLightApp.csproj.CoreCompileInputs.cache
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\FlashLightApp.dll
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\ref\FlashLightApp.dll
+C:\Users\Hector\OneDrive\Documents\MAD II\FlashlightApp\FlashLightApp\FlashLightApp\obj\Debug\netstandard2.0\FlashLightApp.pdb
