@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cq6diCX5mzTrR91NZbcQyItwa6zvxCk27CEBtHyes/+DLbnYuBRtf9cpx7G90OPb9aSohs6Oc9CSXASQc0w3qA==",
+  "dgSpecHash": "aJoxtI2aoC6RzMcC/nWAKkNYqEMZEcXShWugXsTju39xGF8F2/HwM3/bvbQPGh/5XyX7VHwcneEAmL0u4DkXPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.UWP\\FlashLightApp.UWP.csproj",
+  "projectFilePath": "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.UWP\\FlashLightApp.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

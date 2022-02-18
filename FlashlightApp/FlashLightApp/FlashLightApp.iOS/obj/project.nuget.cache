@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cGuaQnx42xrDrSv8nDVKAjdRY3CfMuDEolb/69BD+6bZfDKZMPw2l8Yxy4/erOk3UsdUAzxFtVhd3LE/NhUiQA==",
+  "dgSpecHash": "oTNf7KB6cfmNM5wROhL4uSctgQ22qiBOXPmTk3+Rq4XVfpdF1Vv/mOZp8Xj5nwVhgqiqVJJtTXh3R2ZTRNE+jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.iOS\\FlashLightApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.iOS\\FlashLightApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hector\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Hector\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",

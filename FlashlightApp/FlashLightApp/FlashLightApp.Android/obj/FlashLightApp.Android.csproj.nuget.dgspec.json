@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\FlashLightApp.Android.csproj": {}
+    "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\FlashLightApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\FlashLightApp.Android.csproj": {
+    "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\FlashLightApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\FlashLightApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\FlashLightApp.Android.csproj",
         "projectName": "FlashLightApp.Android",
-        "projectPath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\FlashLightApp.Android.csproj",
+        "projectPath": "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\FlashLightApp.Android.csproj",
         "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\obj\\",
+        "outputPath": "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj": {
-                "projectPath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj"
+              "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj": {
+                "projectPath": "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj"
               }
             }
           }
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj": {
+    "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj",
+        "projectUniqueName": "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj",
         "projectName": "FlashLightApp",
-        "projectPath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj",
+        "projectPath": "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj",
         "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\obj\\",
+        "outputPath": "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

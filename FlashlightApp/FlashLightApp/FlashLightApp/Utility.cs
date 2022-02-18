@@ -12,19 +12,16 @@ namespace FlashLightApp
         {          
                 Task.Delay(100).Wait();
                 await Flashlight.TurnOnAsync();
-                Task.Delay(500).Wait();
+                Task.Delay(300).Wait();
                 await Flashlight.TurnOffAsync();            
         }
 
         public static async Task LongFlash()
         {
-          
+                Task.Delay(100).Wait();
                 await Flashlight.TurnOnAsync();
-
                 Task.Delay(700).Wait();
-
-                await Flashlight.TurnOffAsync();
-           
+                await Flashlight.TurnOffAsync();           
         }
 
         public static async Task A()

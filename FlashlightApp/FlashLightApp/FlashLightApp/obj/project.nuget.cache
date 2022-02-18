@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YMPOA2aGtGeZmMHuGUKHPsg2eMHYcyWKw+fAEQ9SoXfVTZ/llan6lZifnU31LbIj6ggFy93OGbxQg/Ao8KJhVA==",
+  "dgSpecHash": "kSeixMtHQ9nrwC3FbPVmpzzedOeaqCfRXJZHvf8yHeRnEBw1c95GEiPanWjlZ1dTNmPV/AoomAG9shTf3hyU1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj",
+  "projectFilePath": "C:\\Users\\Hector\\Source\\Repos\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hector\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Hector\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
