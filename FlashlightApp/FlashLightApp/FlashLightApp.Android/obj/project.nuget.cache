@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hsH5VEHZCOt1ggkGDVnBeBpetJ4+LT+0q2VpD+37LdugmU3ZiQmW951XkQ8U1CvtpnKx9lmzOVAlSSF/gxmq2g==",
+  "dgSpecHash": "0foyXM5xWdsfVXOiIjDejAwWCWVqElhPj3i8dnQuidIW/cQ8eWdCKjvAl2qVgtMN0TfO/CUtOIZkxblhnBCVYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hector\\OneDrive\\Documents\\MAD II\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\FlashLightApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp.Android\\FlashLightApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hector\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

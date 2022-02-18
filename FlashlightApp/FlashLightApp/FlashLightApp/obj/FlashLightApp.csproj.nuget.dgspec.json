@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hector\\OneDrive\\Documents\\MAD II\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj": {}
+    "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hector\\OneDrive\\Documents\\MAD II\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj": {
+    "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hector\\OneDrive\\Documents\\MAD II\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj",
+        "projectUniqueName": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj",
         "projectName": "FlashLightApp",
-        "projectPath": "C:\\Users\\Hector\\OneDrive\\Documents\\MAD II\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj",
+        "projectPath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\FlashLightApp.csproj",
         "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hector\\OneDrive\\Documents\\MAD II\\FlashlightApp\\FlashLightApp\\FlashLightApp\\obj\\",
+        "outputPath": "C:\\Users\\Hector\\Documents\\GitHub\\MADIIsharedprojects\\FlashlightApp\\FlashLightApp\\FlashLightApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
