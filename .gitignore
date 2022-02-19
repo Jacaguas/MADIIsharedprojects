@@ -1,0 +1,20 @@
+# Dirs/Files to ignore
+
+# PCL
+FlashLightApp/bin/
+FlashLightApp/obj/
+
+# Android
+FlashLightApp.Android/bin/
+FlashLightApp.Android/obj/
+
+# iOS
+FlashLightApp.iOS/bin/
+FlashLightApp.iOS/obj/
+
+# UWP
+FlashLightApp.UWP/bin/
+FlashLightApp.UWP/obj/
+
+# Ignore Visual Studio metadata
+.vs/

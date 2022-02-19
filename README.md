@@ -1,2 +1,0 @@
-# MADIIsharedprojects
-Shared projects
